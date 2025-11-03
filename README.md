@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-# GraphMind---IA-Grafos
-=======
+
+# GraphMind
+
 # Aplicación de Matemáticas Discretas - Grafos
 
 Esta es una aplicación web interactiva para trabajar con grafos y realizar diferentes operaciones de matemáticas discretas.
